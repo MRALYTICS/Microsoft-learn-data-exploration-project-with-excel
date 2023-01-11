@@ -18,4 +18,13 @@
  using the formular TEXT(A2, "mmmm") i was able to derive the months from the date column
  
  ![image](https://user-images.githubusercontent.com/107101960/211177695-753feb28-12bc-456a-b485-8d26c7c7d794.png)
+ 
+ * I inserted a column to calculate revenue by multiplying sales and profit
+ ![image](https://user-images.githubusercontent.com/107101960/211701552-0c0e87f6-991f-4222-b9b1-efd2961b5eba.png)
+
+* I added some conditional formating the data to better understand the data
+![Screenshot (4)](https://user-images.githubusercontent.com/107101960/211701756-3877856c-a553-4f31-8faa-f7457bcdb836.png)
+
+# ANALYZE DATA WITH PIVOT TABLE
+
 
