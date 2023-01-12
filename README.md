@@ -26,5 +26,16 @@
 ![Screenshot (4)](https://user-images.githubusercontent.com/107101960/211701756-3877856c-a553-4f31-8faa-f7457bcdb836.png)
 
 # ANALYZE DATA WITH PIVOT TABLE
+![Screenshot (8)](https://user-images.githubusercontent.com/107101960/211957411-2d5cc969-581b-46a0-89b2-c234bd9d3bd8.png)
+
+# VISUALIZATION OF ANALYSIS
+ I visualised my analysis so has to find trends in the data
+
+* Sales trends
+* ![image](https://user-images.githubusercontent.com/107101960/211958693-d5ceb90f-cf98-44b9-b191-2ffc8e66fa94.png)
+
+* Sales and Temperature trends
+
+![image](https://user-images.githubusercontent.com/107101960/211960391-ce05ea36-2b70-40f8-ac25-ac8b65697406.png)
 
 
