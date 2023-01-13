@@ -32,10 +32,15 @@
  I visualised my analysis so has to find trends in the data
 
 * Sales trends
-* ![image](https://user-images.githubusercontent.com/107101960/211958693-d5ceb90f-cf98-44b9-b191-2ffc8e66fa94.png)
+* ![image](https://user-images.githubusercontent.com/107101960/212223052-8b9b7708-1320-45f9-8c7e-56e9c232833c.png)
 
 * Sales and Temperature trends
 
 ![image](https://user-images.githubusercontent.com/107101960/211960391-ce05ea36-2b70-40f8-ac25-ac8b65697406.png)
+
+* Average revenue by weekdays
+
+![image](https://user-images.githubusercontent.com/107101960/212222765-a7aebf07-476e-4498-9aeb-3d8a2adff76e.png)
+
 
 
